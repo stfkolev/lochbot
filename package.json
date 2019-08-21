@@ -4,7 +4,8 @@
   "description": "amxx-bg discord bot",
   "main": "lochbot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lochbot.js"
   },
   "author": "Evil (Stf Kolev)",
   "license": "ISC",
